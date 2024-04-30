@@ -1,7 +1,7 @@
 body{
     padding:0%;
     margin:auto;
-    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.2)), url(./assets/landingbg.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.2)), url(standard.jpg);
     background-size:100%;
     background-repeat:no-repeat;
     font-family:sans-serif;

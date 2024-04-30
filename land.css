@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-image: url(standard.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+    text-align: center;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+
+}
+
+.container label{
+     background-color: #728f24;
+     padding: 15px 20px;
+     font-size: 25px;
+     color: #000;
+     cursor: pointer;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+}
+
+.box img{
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+
+}
+
+#upload{
+    display: grid;
+}
+
+.container label:hover{
+    background-color: #970f0f;
+}
